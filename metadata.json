@@ -1,0 +1,6 @@
+{
+  "name": "ErgoForge - WFH & Student Break Rewards",
+  "description": "Gamified ergonomic break timer and postural relief app for WFH employees and students with real-life company vouchers and custom themes (Doctor Doom, Spider-Man, Ramayan, Naruto, F.R.I.E.N.D.S, The Office).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
